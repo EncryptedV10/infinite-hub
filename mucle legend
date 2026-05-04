@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.
 local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ActualMasterOogway/Fluent-Renewed/master/Addons/InterfaceManager.luau"))()
  
 local Window = Library:CreateWindow{
-    Title = "Infinite Hub | Game: Muscle Legends | Version [v.1.8.1]",
+    Title = "Spectra Hub X | Game: Muscle Legends | Version [v.1]",
     SubTitle = "by AhmxdDev",
     TabWidth = 160,
     Size = UDim2.fromOffset(1087, 690.5),
